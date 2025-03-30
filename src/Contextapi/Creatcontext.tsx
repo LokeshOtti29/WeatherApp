@@ -1,6 +1,6 @@
 import axios from 'axios';
 import React, { createContext, ReactNode, useState } from 'react'
-import { useParams } from 'react-router-dom';
+
 
 interface contextproviderprops{
    children:ReactNode
